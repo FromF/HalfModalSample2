@@ -1,0 +1,2 @@
+# HalfModalSample2
+ハーフモーダルのサンプルコード
